@@ -131,4 +131,5 @@ def main():
         thread.start_new_thread(treatClient,(client_connection,))
 
 if __name__ == "__main__":
-    main()
+    
+    print('dyghjd',main())
